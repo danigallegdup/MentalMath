@@ -1,2 +1,2 @@
 # MentalMath
-I gotta stop pulling my calculator out to add 5+3
+I gotta stop pulling out my calculator to add 5+3
